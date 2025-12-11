@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+torch          # or tensorflow if you prefer
+torchvision
+d3rlpy         # offline RL library
+scipy
+joblib
+tqdm
+xgboost        # optional for baseline
+imbalanced-learn  # optional if you want sampling

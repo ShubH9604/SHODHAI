@@ -1,0 +1,28 @@
+# Python virtualenvs
+shodhai-env/
+venv/
+.env/
+
+# Raw datasets and archives
+archive/
+*.csv
+*.zip
+*.tar.gz
+
+# Large binary datasets and caches
+*.npz
+data/processed/
+
+# Models (keep smaller versions if you want)
+models/*.pth
+models/*.joblib
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Figures & temporary report images
+reports/figures/*.png
+reports/figures/*.jpg
